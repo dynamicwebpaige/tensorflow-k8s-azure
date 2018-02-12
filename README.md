@@ -23,7 +23,7 @@ git clone https://github.com/wbuchwalter/tensorflow-k8s-azure
 | | Module | Description |
 | --- | --- | --- |
 |0| **[Introduction](0-intro)** | Introduction to this workshop. Motivations and goals.|
-|1| **[Docker](1-docker)** | Docker and containers 101.|
+|1| **[Docker](1-docker)** | Containers 101 with Docker.|
 |2| **[Kubernetes](2-kubernetes)** | Kubernetes important concepts overview.|
 |3| **[Helm](3-helm)** | Introduction to Helm |
 |4| **[GPUs](4-gpus)** | How to use GPUs with Kubernetes.|
