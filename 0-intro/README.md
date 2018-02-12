@@ -2,12 +2,12 @@
 
 ## Motivations
 
-Machine learning model development and operationalization currently has very few industry-wide best practices to help us reduce the time to market and optimize the different steps.
+There are currently very few industry-wide best practices to reduce time to market for machine learning model development and operationalization. By developing standards for scaling, we hope to reduce time to market and optimize the model creation process.
 
-However in traditional application development, DevOps practices are becoming ubiquitous. 
-We can benefit from many of these practices by applying them to model development and operationalization.
+In traditional application development, DevOps practices are becoming ubiquitous. The discipline of machine learning can benefit from many of these DevOps practices by applying them to model development and operationalization.
 
-Here are a subset of pain points that exists in a typical ML workflow.
+Below are a subset of pain points that exist in a typical ML workflow.
+
 #### A Typical (Simplified) ML Workflow and its Pain Points
 ![Typical Workflow](workflow.png)
 
